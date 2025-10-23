@@ -1,4 +1,4 @@
-# Comparing Stock Movements with Sentiment Analysis
+# Rough Pipeline for Comparing Stock Movements with Sentiment Analysis
 **Applied full ML lifecycle**: preprocessing, model selection, and evaluation/analysis
 
 -Calculated Reddit sentiment using a transformer-based, deep learning model fine-tuned for understanding financial language (FinBERT). Developed end-to-end Natural Language Processing pipeline for efficient sentiment analysis.

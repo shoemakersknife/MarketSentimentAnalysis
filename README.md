@@ -1,7 +1,7 @@
 # Comparing Stock Movements with Sentiment Analysis
 **Applied full ML lifecycle**: preprocessing, model selection, and evaluation/analysis
 
--Analyzed Reddit sentiment using FinBERT (PyTorch-based neural network) and developed end-to-end Natural Language Processing pipeline for sentiment analysis. 
+-Analyzed Reddit sentiment using FinBERT (PyTorch-based neural network) and developed end-to-end Natural Language Processing pipeline for sentiment analysis. Applied Large Language Model fine-tuned for financial language.
 
 -Python ecosystem: Pandas, NumPy, Scikit-learn, Matplotlib
 

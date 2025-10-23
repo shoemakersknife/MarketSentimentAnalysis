@@ -5,7 +5,7 @@
 
 -Utilized Python ecosystem: Pandas, NumPy, Scikit-learn, Matplotlib.
 
--Reddit API Setup: Bot scraping reddit posts from r/investing, r/stocks, r/wallstreetbets.
+-Reddit API Setup: Bot scraping reddit posts from r/investing, r/stocks, r/wallstreetbets. Used 1000+ posts and fetched words in titles. Can be scalable with higher computing power.
 
 -Text normalization, tokenization, stopword removal to filter out noise -> sentiment score (positive/negative/neutral <=> -1, 0, 1)
 

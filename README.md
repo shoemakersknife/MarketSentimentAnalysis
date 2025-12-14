@@ -1,14 +1,26 @@
 # Rough Pipeline for Comparing Stock Movements with Sentiment Analysis
+
 **Applied full ML lifecycle**: preprocessing, model selection, and evaluation/analysis
 
--Calculated Reddit sentiment using a transformer-based, deep learning model fine-tuned for understanding financial language (FinBERT). Developed end-to-end Natural Language Processing pipeline for efficient sentiment analysis.
+## Project Overview
 
--Utilized Python ecosystem: Pandas, NumPy, Scikit-learn, Matplotlib.
+- Calculated Reddit sentiment using a transformer-based, deep learning model fine-tuned for understanding financial language (FinBERT). Developed end-to-end Natural Language Processing pipeline for efficient sentiment analysis.
 
--Reddit API Setup: Bot scraping reddit posts from r/investing, r/stocks, r/wallstreetbets. Used 1000+ posts and fetched words in titles. Can be scalable with higher computing power.
+- Utilized Python ecosystem: Pandas, NumPy, Scikit-learn, Matplotlib.
 
--Text normalization, tokenization, stopword removal to filter out noise -> sentiment score (positive/negative/neutral <=> -1, 0, 1)
+## Data Collection
 
--Measured sentiment over certain time period over large data sets. Merged sentiment data with stock data and visualized potential trends.
+- Reddit API Setup: Bot scraping reddit posts from r/investing, r/stocks, r/wallstreetbets. Used 1000+ posts and fetched words in titles. Can be scalable with higher computing power.
 
--Used Jupyter Notebooks and gained experience with tech stacks.
+## Data Preprocessing & NLP Pipeline
+
+- Text normalization, tokenization, stopword removal to filter out noise -> sentiment score (positive/negative/neutral <=> -1, 0, 1)
+
+## Analysis & Visualization
+
+- Measured sentiment over certain time period over large data sets. Merged sentiment data with stock data and visualized potential trends.
+
+## Tools & Environment
+
+- Used Jupyter Notebooks and gained experience with tech stacks.
+- Anaconda package/environment manager

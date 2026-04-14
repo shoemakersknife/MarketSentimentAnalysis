@@ -22,5 +22,5 @@
 
 ## Tools & Environment
 
-- Used Jupyter Notebooks and gained experience with tech stacks.
+- Jupyter Notebooks
 - Anaconda package/environment manager
